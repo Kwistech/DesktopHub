@@ -55,4 +55,21 @@ to match the equivalent directory on your system. Provide the full path name.
 
 Note: You may have to add an escape character to the first backslash (\) for the path to work.
 
+## Creating Your Own Modules ##
+
+If you want to create your own modules for DesktopHub, I suggest you do the following:
+
+1. Create a new .py file in the module directory with the name of your new module
+2. Copy all the contents from an existing module and paste it into your new module
+3. Rename function(s) and edit the pasted code to your liking (follow pasted code as a guideline)
+4. Edit main.py by adding a try/except block with the import to your module (see main.py lines 6-17)
+5. Add try/except block to _load_modules(self) method with call to your module (pass in parameters, if any)
+6. In except block, let the call to your modules be None (i.e. `mod4 = None`); add module to return tuple (line 86)
+7. Add elif block to action(self, text, query=None) method with the action that your modules initiates upon button press.
+
+---
+
+I plan to add more features and modules to this app in the future. Any suggestions and/or recommendations are welcome.
+Feel free to try this app out for yourself!
+
 

@@ -47,7 +47,7 @@ Note: Modules can be activated and inactivated by moving the module (files in
 **Each buttons filepath must be changed to the users path to the equivalent directory!**
 As of this writing, the app opens the directories I have set. This means that the app
 will use the paths I have given it to open the corresponding directories. If the app
-does not file the path specified, it will open explorer to a general directory 
+does not find the path specified, it will open explorer in a general directory 
 (i.e. My Documents).
 
 To change the paths, open main.py and the module .py files in a script editor and change them

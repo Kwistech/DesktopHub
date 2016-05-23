@@ -53,7 +53,7 @@ does not find the path specified, it will open explorer in a general directory
 To change the paths, open main.py and the module .py files in a script editor and change them
 to match the equivalent directory on your system. Provide the full path name.
 
-Note: You may have to add an escape character to the first backslash (\) for the path to work.
+Note: You may have to add an escape character to the first backslash (\\) for the path to work.
 
 ## Creating Your Own Modules ##
 

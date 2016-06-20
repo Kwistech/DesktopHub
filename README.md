@@ -4,6 +4,8 @@ DesktopHub v.1.0
 
 DesktopHub is a desktop application that opens specified directories and websites on the click of a button.
 
+Check the project's [Wiki](https://github.com/Kwistech/DesktopHub/wiki) for more info.
+
 ## Installation ##
 
 This program can be ran two ways:

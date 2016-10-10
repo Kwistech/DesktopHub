@@ -1,6 +1,6 @@
 # DesktopHub
 
-DesktopHub v.1.0
+DesktopHub v.1.0 (Python 3.5)
 
 DesktopHub is a desktop application that opens specified directories and websites on the click of a button.
 

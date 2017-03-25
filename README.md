@@ -22,11 +22,11 @@ This program can be ran two ways:
 
   `python main.py`
 
-##How to Use
+## How to Use
 
 The below image is the GUI for DesktopHub:
 
-<img src="http://s33.postimg.org/xa94b0ojz/desktophub_gui_with_mods.png" align="left" hspace="10">
+[![desktophub-gui-with-mods.png](https://s2.postimg.org/icglqecnd/desktophub-gui-with-mods.png)](https://postimg.org/image/58b1dpklh/)
 
 DesktopHub is split into two sections:
 
